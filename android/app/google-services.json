@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1017348963934",
+    "project_id": "fquizres",
+    "storage_bucket": "fquizres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017348963934:android:33fab2679f462d72243ecf",
+        "android_client_info": {
+          "package_name": "com.example.fquizres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017348963934-g4ufloo73rreg57ifblql2s09cui2sec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fquizres",
+            "certificate_hash": "e19e07451cab497c272b106ff033bf42629edba0"
+          }
+        },
+        {
+          "client_id": "1017348963934-6ggdv7nme1bq90rvidvspm1mj9qlr297.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBugV4VzKGRx5GsqyfgnlprSUu5rFYYX9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017348963934-6ggdv7nme1bq90rvidvspm1mj9qlr297.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017348963934-ff72ugbugsuqld97i6ec9fbm5g04unt2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fquizres"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
